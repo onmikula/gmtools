@@ -1,0 +1,79 @@
+ID	Lineage	Barcoded	Country	Locality	Latitude	Longitude	Altitude	Age	Sex
+FMNH_043461	B1	FALSE	Kenya	Coast Province, Mazeras	-3.9667	39.55	162	subadult	M
+FMNH_150099	B1	TRUE	Tanzania	East Usambara Mts, Monga Tea Estate, B	-5.0667	38.6	1100	adult	F
+FMNH_150103	B1	FALSE	Tanzania	East Usambara Mts, 4.5 km ESE Amani, Monga Tea Estate	-5.1	38.6	870	adult	F
+FMNH_150428	B1	FALSE	Tanzania	East Usambara Mts, 4.5 km ESE Amani, Monga Tea Estate	-5.1	38.6	900	adult	F
+FMNH_151223	B1	FALSE	Tanzania	East Usambara Mts, 4.5 km WNW Amani, Monga Tea Estate	-5.1	38.6	900	subadult	F
+FMNH_151224	B1	TRUE	Tanzania	East Usambara Mts, Monga Tea Estate, A	-5.1	38.6	870	adult	F
+FMNH_151225	B1	TRUE	Tanzania	South Pare Mts, Chome Forest Reserve, 7 km S Bombo	-4.3333	38	1100	subadult	M
+FMNH_153932	B1	TRUE	Tanzania	South Pare Mts, Chome Forest Reserve, 3 km E, 0.7 km N Mhero	-4.2833	37.9278	2000	adult	F
+FMNH_153933	B1	TRUE	Tanzania	Kwamgumi Forest Reserve	-4.9417	38.7333	230	subadult	M
+FMNH_155307	B3	FALSE	Tanzania	Udzungwa Mts, 4 km W, 5 km N Chita	-8.475	35.9069	1460	adult	F
+FMNH_155484	B3	TRUE	Tanzania	Udzungwa Mts, Chita	-8.5056	35.9083	910	subadult	F
+FMNH_155899	B1	FALSE	Tanzania	East Usambara Mts, Mlungui Forest Reserve	-4.9444	38.8167	472	subadult	F
+FMNH_155901	B1	FALSE	Tanzania	East Usambara Mts, Bamba Ridge Forest Reserve	-4.95	38.7833	512	subadult	M
+FMNH_161268	B1	TRUE	Tanzania	Nguru Mts, Mhonda	-6.0639	37.5236	1500	subadult	M
+FMNH_163403	B1	FALSE	Tanzania	East Usambara Mts, Bombo East 1 Forest Reserve	-4.8197	38.7097	400	adult	M
+FMNH_163408	B1	FALSE	Tanzania	East Usambara Mts, Bombo East 1 Forest Reserve	-4.8197	38.7097	400	adult	M
+FMNH_163568	B7	TRUE	Tanzania	Mt Rungwe	-9.1352	33.6674	2812	subadult	F
+FMNH_166651	B2	TRUE	Tanzania	Ukaguru Mts, Mamiwa-Kisara forest	-6.3792	36.9361	1900	adult	F
+FMNH_166652	B2	TRUE	Tanzania	Ukaguru Mts, Mamiwa-Kisara forest	-6.3792	36.9361	1900	subadult	F
+FMNH_166913	B2	FALSE	Tanzania	Ukaguru Mts, Mamiwa-Kisara forest	-6.3792	36.9361	1900	subadult	M
+FMNH_166914	B2	FALSE	Tanzania	Ukaguru Mts, Mamiwa-Kisara forest	-6.3792	36.9361	1900	adult	F
+FMNH_168327	B1	TRUE	Tanzania	Nguu Mts, Gombero	-5.4778	37.475	1180	subadult	M
+FMNH_169546	B3	FALSE	Tanzania	Udzungwa Mts, West Kilombero Scarp Forest Reserve, Ndundulu Forest	-7.8083	36.5048	1379	subadult	F
+FMNH_180843	B1	FALSE	Tanzania	Mikumi NP, Malundwe Mts, A	-7.4116	37.3061	876	subadult	M
+FMNH_183751	B4	TRUE	Mozambique	Mt Namuli area, Murabue	-15.4135	37.0743	1111	subadult	F
+FMNH_183752	B4	FALSE	Mozambique	Mt Namuli area	-15.3993	37.0428	1707	subadult	M
+FMNH_186992	B5	FALSE	Tanzania	Litipo Forest Reserve	-10.03	39.49	240	adult	NA
+FMNH_187292	B1	TRUE	Tanzania	Mikumi NP, Malundwe Mts, B	-7.3953	37.3047	985	adult	M
+FMNH_187328	B1	FALSE	Tanzania	Mikumi NP, Malundwe Mts, B	-7.3953	37.3047	985	adult	F
+FMNH_196651	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	M
+FMNH_196654	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	M
+FMNH_196655	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	M
+FMNH_196656	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	F
+FMNH_196657	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	F
+FMNH_196659	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	F
+FMNH_196660	B7	TRUE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	adult	F
+FMNH_196661	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	F
+FMNH_196662	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	adult	M
+FMNH_196663	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	adult	M
+FMNH_196664	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, A	-9.6549	33.5386	1625	subadult	M
+FMNH_196666	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, B	-9.6529	33.5423	1890	subadult	M
+FMNH_196667	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, B	-9.6529	33.5423	1890	subadult	M
+FMNH_196668	B7	FALSE	Malawi	Misuku Hills, Mughese Forest, B	-9.6529	33.5423	1890	subadult	M
+FMNH_196669	B7	TRUE	Malawi	Misuku Hills, Mughese Forest, B	-9.6529	33.5423	1890	adult	M
+FMNH_196671	B7	TRUE	Malawi	Misuku Hills, Wilindi Forest	-9.6957	33.4791	1825	adult	F
+FMNH_196674	B7	FALSE	Malawi	Misuku Hills, Wilindi Forest	-9.6957	33.4791	1825	subadult	M
+FMNH_196675	B7	FALSE	Malawi	Misuku Hills, Wilindi Forest	-9.6957	33.4791	1825	subadult	F
+FMNH_196676	B7	FALSE	Malawi	Misuku Hills, Wilindi Forest	-9.6957	33.4791	1825	subadult	F
+FMNH_197809	B2	TRUE	Tanzania	Rubeho Mts, Mwofwomero forest	-6.9159	36.5595	1923	subadult	F
+FMNH_197810	B2	TRUE	Tanzania	Rubeho Mts, Mwofwomero forest, Chugu	-6.8337	36.572	1900	subadult	F
+FMNH_205147	B7	TRUE	Tanzania	Bujingijila corridor between Mt Rungwe and Livingstone Mts	-9.1174	33.706	2020	adult	M
+FMNH_211540	B7	TRUE	Malawi	Nyika National Park, Mwenembwe Forest	-10.7445	33.9824	2233	adult	M
+FMNH_212092	B6	TRUE	Malawi	Ntchisi Forest Reserve	-13.3797	34.0025	1541	adult	NA
+FMNH_219299	B7	TRUE	Tanzania	Ruaha National Park, Isunkavyola Plateau, Kilola Star	-7.7071	34.0305	1734	subadult	F
+FMNH_219300	B7	FALSE	Tanzania	Ruaha National Park, Isunkavyola Plateau, Kilola Star	-7.7071	34.0305	1734	subadult	F
+IVB_MOZ161	B4	TRUE	Mozambique	Gile NP	-16.713	38.8045	33	adult	F
+IVB_T8x397	B5	TRUE	Tanzania	Rondo Plateau	-10.1252	39.1953	790	subadult	M
+NMZ_2883	B7	TRUE	Zambia	Mpika District	-11.6	31.5667	1755	subadult	M
+NMZ_3241	B3	TRUE	Malawi	Mangochi Mts	-14.45	35.4833	1381	subadult	M
+NMZ_3242	B3	TRUE	Malawi	Mangochi Mts	-14.45	35.4833	1381	adult	M
+NMZ_3243	B3	FALSE	Malawi	Mangochi Mts	-14.45	35.4833	1381	subadult	F
+NMZ_3244	B7	TRUE	Malawi	Misuku Hills, Wilindi Forest	-9.6957	33.4791	1824	adult	F
+RMCA_96.037-M-5131	B5	TRUE	Tanzania	Mnara	-10.1167	39.4	550	adult	F
+RMCA_96.037-M-5132	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	M
+RMCA_96.037-M-5133	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	adult	F
+RMCA_96.037-M-5134	B5	TRUE	Tanzania	Mnima	-10.4833	39.7167	197	subadult	M
+RMCA_96.037-M-5135	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	F
+RMCA_96.037-M-5136	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	F
+RMCA_96.037-M-5137	B5	TRUE	Tanzania	Mnima	-10.4836	39.7169	199	adult	M
+RMCA_96.037-M-5138	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	adult	F
+RMCA_96.037-M-5139	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	F
+RMCA_96.037-M-5140	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	M
+RMCA_96.037-M-5141	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	F
+RMCA_96.037-M-5143	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	F
+RMCA_96.037-M-5144	B5	TRUE	Tanzania	Mnima	-10.4833	39.7167	197	subadult	F
+RMCA_96.037-M-5145	B5	FALSE	Tanzania	Mnima	-10.4836	39.7169	199	subadult	M
+RMCA_96.037-M-5146	B1	FALSE	Tanzania	Myambe	-4.3833	38.0167	197	subadult	F
+RMCA_a1.008-M-0804	B1	FALSE	Kenya	Sagalla	-3.5	38.5833	1136	subadult	F
