@@ -1,2 +1,2 @@
 # gmtools
-A collection of functions & scripts helping with analysis of geometric morphometric data.
+A collection of functions & scripts assisting analyses of geometric morphometric data.
